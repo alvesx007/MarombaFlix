@@ -1,0 +1,16 @@
+.body {
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+header{
+    border-bottom: solid 2px rgb(158, 3, 3);
+    padding: 20px;
+    border: 10px rgb(255, 60, 0);
+}
+.Video_Principal{
+        justify-content: center;
+        align-items: center;
+}
+       
+     
